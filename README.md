@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @fientjuhhhh
-- 👀 I’m interested in ...
+- 👀 I’m interested in graphic design
 - 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me: instagram: delphine.eggermont
 
 <!---
 fientjuhhhh/fientjuhhhh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
